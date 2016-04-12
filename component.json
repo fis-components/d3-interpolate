@@ -1,0 +1,12 @@
+{
+    "name": "d3-interpolate",
+    "description": "Interpolate numbers, colors, strings, arrays, objects, whatever!",
+    "repos": "https://github.com/d3/d3-interpolate.git",
+    "main": "build/d3-interpolate.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "d3-color": "~0.3.1"
+    },
+    "version": "0.2.0"
+}
