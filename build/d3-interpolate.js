@@ -456,7 +456,7 @@
   var cubehelix = cubehelixGamma(1);
   var cubehelixLong = cubehelixGammaLong(1);
 
-  var version = "0.2.0";
+  var version = "0.2.1";
 
   exports.version = version;
   exports.cubehelix = cubehelix;
